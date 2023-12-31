@@ -1,0 +1,38 @@
+{
+  "theme_color": "#4911B5",
+  "background_color": "#EAFFD9",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "name": "Pharmcad - Best Coaching Class for Pharmacy in Mumbai",
+  "short_name": "Pharmacad",
+  "description": "India\u2019s Best Coaching Class for M. Pharmacy, MBA entrance exams & Abroad Studies for Pharmacy students. Experts in GPAT, NIPER, BITS, Manipal, ICT & other entrance exams, also MBA entrance  (CAT / NMAT / CET / SNAP / XAT / CMAT, etc.) exams. More than 30 tutors & content creators from India\u2019s top ranked institutes like NIPER, BITS, ICT, BCP, Punjab University etc., working together to provide you the best & quality education via offline & online platform.",
+  "icons": [
+    {
+      "src": "icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-256x256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-384x384.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "maskable.png",
+      "sizes": "512x512",
+      "type": "image/x-icon",
+      "purpose": "maskable"
+    }
+  ]
+}

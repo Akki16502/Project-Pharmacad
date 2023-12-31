@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="https://www.sitemaps.org/schemas/sitemap/0.9
+            https://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+  <loc>https://pharmacad.in/</loc>
+  <lastmod>2023-06-29T13:38:31+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://pharmacad.in/courses/</loc>
+  <lastmod>2023-06-29T13:38:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://pharmacad.in/courseCertificate/</loc>
+  <lastmod>2023-06-29T13:38:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://pharmacad.in/blog/</loc>
+  <lastmod>2023-06-29T13:38:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://pharmacad.in/testimonials/</loc>
+  <lastmod>2023-06-29T13:38:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://pharmacad.in/about/</loc>
+  <lastmod>2023-06-29T13:38:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://pharmacad.in/pdf/gpatSyllabus.pdf</loc>
+  <lastmod>2023-06-29T13:38:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://pharmacad.in/privacypolicy/</loc>
+  <lastmod>2023-06-29T13:38:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://pharmacad.in/pdf/Pharmacad.pdf</loc>
+  <lastmod>2023-06-29T13:38:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pharmacad.in/pdf/IPR.pdf</loc>
+  <lastmod>2023-06-29T13:38:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pharmacad.in/privacypolicy/</loc>
+  <lastmod>2023-06-29T13:38:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+</urlset>
