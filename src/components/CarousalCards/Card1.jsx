@@ -23,11 +23,11 @@ const Card1 = () => {
             <div className="flex flex-col">
               <span>
                 <span className="textcolour font-bold text-lg">
-                  GPAT &apos;24
+                  GPAT &apos;25
                 </span>
                 <span className="text-lg text-white ml-1">and</span>
                 <span className="textcolour font-bold text-lg ml-1">
-                  &apos;25
+                  &apos;26
                 </span>
                 <span className="text-lg text-white ml-1">
                   admissions have now

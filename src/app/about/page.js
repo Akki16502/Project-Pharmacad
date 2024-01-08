@@ -42,23 +42,23 @@ export default function aboutPage() {
 
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             <div className="bg-[#f2fff0] rounded-lg shadow-md p-6">
-              <h3 className="text-xl font-semibold text-gray-800 mb-2 ">Specialized Team of Experts</h3>
+              <h3 className="text-xl font-semibold text-gray-800 mb-2 ">Industrial Exposure with Expert Faculty</h3>
               <p className="text-gray-600 font-montserrat">
-                Our coaching services are provided by a dedicated team of industry experts. They have extensive knowledge and experience to help you prepare for your semester, entrance, and competitive examinations.
+              Pharmacad offers unparalleled industrial exposure through our expert faculty, bringing real-world insights from the pharma industry to the classroom. Benefit from a curriculum enriched by professionals who guide you towards a practical understanding of pharmaceutical processes and challenges, enhancing your academic experience.
               </p>
             </div>
 
             <div className="bg-white rounded-lg shadow-md p-6">
-              <h3 className="text-xl font-semibold text-gray-800 mb-2">Comprehensive Exam Preparation</h3>
+              <h3 className="text-xl font-semibold text-gray-800 mb-2">Semester Coaching for B Pharmacy and Diploma Students</h3>
               <p className="text-gray-600 font-montserrat">
-                We offer comprehensive coaching programs that cover all the essential topics and concepts required for your exams. Our goal is to equip you with the knowledge and skills necessary for success.
+              Elevate your academic performance in B Pharmacy or Diploma in Pharmacy semesters with Pharmacad's specialized coaching. Our dedicated team provides personalized coaching both at our Dadar branch and through our online platform. Excel in your coursework with targeted guidance tailored to your individual needs.
               </p>
             </div>
 
             <div className="bg-[#f2fff0] rounded-lg shadow-md p-6">
-              <h3 className="text-xl font-semibold text-gray-800 mb-2">Personalized Approach</h3>
+              <h3 className="text-xl font-semibold text-gray-800 mb-2">Personal Development Beyond Entrance Exams</h3>
               <p className="text-gray-600 font-montserrat">
-                We understand that each student has unique learning needs. Our coaching sessions are tailored to address your specific requirements, allowing you to learn at your own pace and focus on areas that require additional attention.
+              Pharmacad goes beyond entrance exam preparation, focusing on comprehensive personal development. Students are groomed to be industry-ready through soft skill programs and essential practices like email writing. Enrich your journey at Pharmacad with holistic development that goes hand-in-hand with academic excellence, preparing you for success in the pharmaceutical industry.
               </p>
             </div>
           </div>
@@ -74,23 +74,23 @@ export default function aboutPage() {
 
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             <div className="bg-white rounded-lg shadow-md p-6">
-              <h3 className="text-xl font-semibold text-gray-800 mb-2">Industry Certificates</h3>
+              <h3 className="text-xl font-semibold text-gray-800 mb-2">Pharmacovigilance Certification</h3>
               <p className="text-gray-600 font-montserrat">
-                Earn industry-recognized certificates in areas such as programming, design, digital marketing, and more. Enhance your skills and boost your resume with valuable certifications.
+              Pharmacad provides a specialized Pharmacovigilance Certification, equipping individuals with essential skills for effective drug safety monitoring and regulatory compliance. Enhance your professional profile and contribute to pharmaceutical safety with our industry-recognized certification program.
               </p>
             </div>
 
             <div className="bg-[#f2fff0] rounded-lg shadow-md p-6">
-              <h3 className="text-xl font-semibold text-gray-800 mb-2">Job Placements</h3>
+              <h3 className="text-xl font-semibold text-gray-800 mb-2">IPR Certification - Safeguarding Innovation</h3>
               <p className="text-gray-600 font-montserrat">
-                Benefit from our strong partnerships with leading companies for job placements and internships. Gain practical experience and kickstart your career in your desired field.
+              Dive into the world of Intellectual Property Rights (IPR) through Pharmacad's certification program. Gain expertise in protecting pharmaceutical innovations and navigating the legal intricacies of the industry. Our comprehensive certification opens doors to a deeper understanding of intellectual property in the pharmaceutical sector.
               </p>
             </div>
 
             <div className="bg-white rounded-lg shadow-md p-6">
-              <h3 className="text-xl font-semibold text-gray-800 mb-2">Internship Opportunities</h3>
+              <h3 className="text-xl font-semibold text-gray-800 mb-2">Internship Opportunities - Real-world Exposure</h3>
               <p className="text-gray-600 font-montserrat">
-                Explore a wide range of internship opportunities with renowned organizations. Apply your knowledge, gain real-world exposure, and build valuable connections.
+              Pharmacad extends valuable internship opportunities, providing practical, hands-on experience in the pharmaceutical domain. Explore and apply your theoretical knowledge in a real-world setting, gaining practical skills that contribute to your professional growth.
               </p>
             </div>
           </div>
@@ -104,23 +104,23 @@ export default function aboutPage() {
 
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             <div className="bg-[#f2fff0] rounded-lg shadow-md p-6">
-              <h3 className="text-xl font-semibold text-gray-800 mb-2">Student-Centric Approach</h3>
+              <h3 className="text-xl font-semibold text-gray-800 mb-2">Unlock Your Potential</h3>
               <p className="text-gray-600 font-montserrat">
-                Our counseling services prioritize the needs and aspirations of students. We provide personalized guidance to help you choose a suitable career path and make informed decisions.
+              Pharmacad empowers you with free counseling sessions. Book your initial session at zero cost, receiving personalized guidance aligned with your interests. Propel yourself towards a career path that resonates with your passion, guided by our experts.
               </p>
             </div>
 
             <div className="bg-white rounded-lg shadow-md p-6">
-              <h3 className="text-xl font-semibold text-gray-800 mb-2">Feedback-Driven Mechanism</h3>
+              <h3 className="text-xl font-semibold text-gray-800 mb-2">Global Insights with Abroad Counseling</h3>
               <p className="text-gray-600 font-montserrat">
-                We value your feedback and continuously improve our counseling process. We believe in creating a supportive environment where you can freely express your thoughts and concerns.
+              Explore international opportunities through Pharmacad's Abroad Counseling. Benefit from personalized advice tailored to your aspirations, guiding you toward a global pharmaceutical career. Expand your horizons and make informed decisions with our expert assistance.
               </p>
             </div>
 
             <div className="bg-[#f2fff0] rounded-lg shadow-md p-6">
-              <h3 className="text-xl font-semibold text-gray-800 mb-2">Career Path Guidance</h3>
+              <h3 className="text-xl font-semibold text-gray-800 mb-2">Strategic MBA Guidance for Pharma Professionals</h3>
               <p className="text-gray-600 font-montserrat">
-                Our experienced counselors provide expert advice and guidance to help you explore different career paths in India and abroad. We help you align your goals and interests with suitable opportunities.
+              Navigate the intersection of pharmaceutical expertise and business acumen with Pharmacad's MBA Counseling. We guide you in choosing the right MBA—Core or Pharma specialization. From college selection to GD PI preparation, trust us to streamline your MBA admissions journey for a successful career fusion.
               </p>
             </div>
           </div>
@@ -137,23 +137,23 @@ export default function aboutPage() {
 
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             <div className="bg-white rounded-lg shadow-md p-6">
-              <h3 className="text-xl font-semibold text-gray-800 mb-2">Club Activities</h3>
+              <h3 className="text-xl font-semibold text-gray-800 mb-2">Leadership Lab </h3>
               <p className="text-gray-600 font-montserrat">
-                Engage in various club activities such as debating, music, art, photography, and more. Explore your interests and develop new skills through club participation.
+              Pharmacad's Leadership Lab guides pharmacy students in choosing the right career path, offering holistic insights from industry experts. Gain a comprehensive view of the pharmaceutical landscape to excel in your career. Join Leadership Lab for transformative mentorship and success in the dynamic field of pharmacy.
               </p>
             </div>
 
             <div className="bg-[#f2fff0] rounded-lg shadow-md p-6">
-              <h3 className="text-xl font-semibold text-gray-800 mb-2">Sports Events</h3>
+              <h3 className="text-xl font-semibold text-gray-800 mb-2">Pharmocracy</h3>
               <p className="text-gray-600 font-montserrat">
-                Take part in exciting sports events and competitions, including football, basketball, cricket, and more. Stay active, enhance teamwork, and showcase your sporting abilities.
+              Team Pharmocracy consists of a student cum professional body wherein, professionals from the industry highlight certain issues, and students from different pharmacy colleges work towards solving the same. It is also involved in community service activities (CSR) and promoting Pharmacy as a first-choice career
               </p>
             </div>
 
             <div className="bg-white rounded-lg shadow-md p-6">
-              <h3 className="text-xl font-semibold text-gray-800 mb-2">Workshops and Seminars</h3>
+              <h3 className="text-xl font-semibold text-gray-800 mb-2">Agonist</h3>
               <p className="text-gray-600 font-montserrat">
-                Attend workshops and seminars conducted by industry experts and professionals. Gain valuable insights, learn new skills, and stay updated with the latest trends and advancements.
+              A monthly Pharma Magazine started in 2020, curated by the teachers and students at Pharmacad which aims to connect academia with the industry. The Agonist magazine primarily focuses to help students create a network with industry professionals across the globe. It also serves as a platform for pharmacy professionals to express their views and share knowledge with peers and students.
               </p>
             </div>
           </div>
